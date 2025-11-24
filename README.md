@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/undeadmoon84/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/AmirHossein-84/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AmirHossein-84/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AmirHossein-84/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/undeadmoon84/LeetCode/tree/master/0242-valid-anagram) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AmirHossein-84/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
