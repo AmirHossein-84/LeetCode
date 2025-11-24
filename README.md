@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AmirHossein-84/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/undeadmoon84/LeetCode/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/undeadmoon84/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/undeadmoon84/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/undeadmoon84/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/undeadmoon84/LeetCode/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/undeadmoon84/LeetCode/tree/master/0412-fizz-buzz) |
 | [0830-largest-triangle-area](https://github.com/undeadmoon84/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/undeadmoon84/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/undeadmoon84/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmirHossein-84/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/undeadmoon84/LeetCode/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0830-largest-triangle-area](https://github.com/undeadmoon84/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1603-running-sum-of-1d-array](https://github.com/undeadmoon84/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/undeadmoon84/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AmirHossein-84/LeetCode/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AmirHossein-84/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
